@@ -1,8 +1,9 @@
 ### Hi there 👋
-我是一个初级前端
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhao-bu&show_icons=true">
+😄一个初级前端
+
 
 <!--
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhao-bu&show_icons=true">
 **Zhao-bu/Zhao-bu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
